@@ -1,6 +1,4 @@
-## Mariam Sanusi
-## Anta Mbaye
-## April 1, 2025
+## Mariam Sanusi & Anta Mbaye | April 1, 2025
 ## IS477
 
 # Final Project Plan
