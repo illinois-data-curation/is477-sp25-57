@@ -1,3 +1,11 @@
+## Mariam Sanusi
+## Anta Mbaye
+## April 1, 2025
+## IS477
+
+# Final Project Plan
+
+
 # Introduction
 
 Housing affordability is a critical issue in the United States, affecting individuals, families, and communities in different ways. New data from the National Low Income Housing Coalition (2023) reveals the crisis's disproportionate impact: Only 33 affordable rental units exist for every 100 extremely low-income (ELI) households—a deficit of 7.3 million homes that worsened by 8% during the pandemic. With rising housing costs, stagnant wages, and regional economic disparities have made it increasingly difficult for many households to find and maintain affordable housing. This project aims to examine the relationship between housing affordability, demographic characteristics, and socioeconomic factors across the United States, using data from the 2023 American Community Survey (ACS).
