@@ -24,4 +24,5 @@ This notebook reproduces the workflow for Analysis of Housing Affordability by C
 - **Data Sources**: https://uofi.box.com/s/1xdo5eccyo4iylvkbkm4amflhm36l9nh 
 - **Software**: See `requirements.txt` .  
 
-[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.215394.svg)](https://handle.stage.datacite.org/10.5072/zenodo.215394)
+[![DOI](https://handle.stage.datacite.org/10.5072/zenodo.215394)
+
