@@ -70,3 +70,7 @@ For example, an equity-focused geographic model might combine rent burden data w
 
 [![DOI](https://sandbox.zenodo.org/records/215394)
 
+# References
+- U.S. Census Bureau. (2023). American Community Survey (ACS) 5-Year Subject Tables API. https://data.census.gov/all?d=ACS+5-Year+Estimates+Subject+Tables
+- Sahu, B. (2022). House Price Prediction Dataset: InsuranceHub-USA. Kaggle. https://www.kaggle.com/datasets/bharatsahu/house-price-prediction-dataset-insurancehub-usa
+
